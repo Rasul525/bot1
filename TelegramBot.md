@@ -2,7 +2,7 @@
 import telebot
 from mailcheck import MailCheck
 mails= []
-MyTooken = "5431067635:AAEEA8WSzwRL3ajoPSwZfbRNxuRipaCEVcU"
+MyTooken = "Your tooken"
 MyBot = telebot.TeleBot(MyTooken)
 #MyFile = open('F:\Rasul\MailData', 'a+')
 
